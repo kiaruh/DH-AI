@@ -1,0 +1,5 @@
+numpy==1.18.1
+Flask==1.1.1
+scikit-learn==0.22.1
+boto3==1.13.16
+h5py==2.10.0
